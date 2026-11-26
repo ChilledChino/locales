@@ -91,7 +91,7 @@
   "mp_fx_btn_reset": "Reset all effects",
   "mp_fx_btn_reset_yes": "Reset all",
   "mp_fx_btn_setval": "Set value",
-  "mp_fx_empty_desc": "Join a voice channel and start some music first, then open Effects again.",
+  "mp_fx_empty_desc": "Join a voice channel and play some music first, then open Effects again.",
   "mp_fx_heading": "Audio effects",
   "mp_fx_invalid_pitch": "Invalid pitch",
   "mp_fx_invalid_rate": "Invalid rate",

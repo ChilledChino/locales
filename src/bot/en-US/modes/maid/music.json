@@ -11,7 +11,7 @@
   "crossfade_not_supported_title": "Crossfade is not supported by the connected audio server, Master.",
   "crossfade_off_desc": "Tracks will transition normally when the current song finishes, Master.",
   "crossfade_status": "🔀 Crossfade is now {0}, Master",
-  "mp_fx_empty_desc": "Please join a voice channel and start some music first, then open Effects again, Master.",
+  "mp_fx_empty_desc": "Please join a voice channel and play some music first, then open Effects again, Master.",
   "mp_fx_reset_title": "Reset all effects, Master?",
   "mp_nothing_playing": "Nothing is playing right now, Master",
   "mp_pl_empty_desc": "Save your active music queue as a personal playlist to play it anytime, Master!",
