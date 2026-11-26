@@ -1,0 +1,68 @@
+{
+  "defaultLocale": "en-US",
+  "defaultMode": "normal",
+  "locales": [
+    {
+      "aliases": [
+        "English",
+        "en",
+        "en_US",
+        "en-GB",
+        "en_GB"
+      ],
+      "bytes": 1085,
+      "code": "en-US",
+      "coverage": 100.0,
+      "dateTimeRecognizerCulture": "en-us",
+      "discordLocales": [
+        "en-US",
+        "en-GB"
+      ],
+      "englishName": "English",
+      "fallback": null,
+      "file": "en-US.json",
+      "modeKeys": {},
+      "nativeName": "English",
+      "sha256": "abbafcce37268f83a022d472508225e72d3a60853afd7a6a4e8570a812318681",
+      "totalKeys": 21,
+      "translatedKeys": 21
+    },
+    {
+      "aliases": [
+        "Indonesian",
+        "id",
+        "in",
+        "id_ID"
+      ],
+      "bytes": 1075,
+      "code": "id-ID",
+      "coverage": 100.0,
+      "dateTimeRecognizerCulture": "en-us",
+      "discordLocales": [
+        "id"
+      ],
+      "englishName": "Indonesian",
+      "fallback": "en-US",
+      "file": "id-ID.json",
+      "modeKeys": {},
+      "nativeName": "Bahasa Indonesia",
+      "sha256": "c996a6401552e50b49b9e821dbb14fc96c70934697b84c4d97b9dc30afde5c6f",
+      "totalKeys": 21,
+      "translatedKeys": 21
+    }
+  ],
+  "modes": [
+    {
+      "aliases": [
+        "Normal",
+        "default",
+        ""
+      ],
+      "description": "Default bot voice",
+      "id": "normal",
+      "name": "Normal"
+    }
+  ],
+  "schemaVersion": 1,
+  "service": "web"
+}

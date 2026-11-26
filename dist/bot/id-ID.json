@@ -1,0 +1,76 @@
+{
+  "categories": {
+    "personal": {
+      "common_no": "tidak",
+      "common_off": "nonaktif",
+      "common_on": "aktif",
+      "common_yes": "ya",
+      "onboarding_btn_dm_off": "Matikan pengingat DM",
+      "onboarding_btn_dm_on": "Nyalakan pengingat DM",
+      "onboarding_btn_finish": "Selesai",
+      "onboarding_btn_skip": "Lewati",
+      "onboarding_dm": "**Pengingat DM:** {0}",
+      "onboarding_done_body": "Ubah preferensi kapan saja dengan /account atau di dasbor.",
+      "onboarding_done_title": "Semua siap",
+      "onboarding_guild_no": "Fitur khusus server (moderasi, ekonomi, musik) butuh {{brand}} terpasang di server.",
+      "onboarding_guild_yes": "Alat server juga tersedia di sini.",
+      "onboarding_share": "**Bagikan aktivitas:** {0}",
+      "onboarding_skipped_body": "Jalankan /account kapan saja untuk kembali.",
+      "onboarding_skipped_title": "Pengenalan dilewati",
+      "onboarding_timezone": "**Zona waktu:** {0}",
+      "onboarding_timezone_unset": "belum diatur (atur di dasbor)",
+      "onboarding_title": "Mulai",
+      "onboarding_welcome": "Selamat datang di {{brand}}. Pengingat, pencarian, dan profilmu bisa dipakai tanpa server."
+    }
+  },
+  "code": "id-ID",
+  "commands": {
+    "descriptions": {
+      "chino": "Chino pribadimu",
+      "chino start": "Atur Chino untuk dirimu sendiri"
+    },
+    "names": {
+      "Ask Chino": "Tanya Chino",
+      "Explain": "Jelaskan",
+      "Remind me about this": "Ingatkan aku soal ini",
+      "Summarize": "Ringkas",
+      "Translate": "Terjemahkan"
+    }
+  },
+  "formatting": {
+    "birthdayNoYear": "{day} {month}",
+    "birthdayWithYear": "{day} {month} {year}",
+    "durationCompact": {
+      "day": "{0}h",
+      "hour": "{0}j",
+      "minute": "{0}m",
+      "second": "{0}d",
+      "separator": " ",
+      "trailingSpace": false
+    },
+    "durationDdhhmmss": "{0}h {1}j {2}m {3}d",
+    "durationFull": {
+      "day": [
+        "{0} hari",
+        "{0} hari"
+      ],
+      "hour": [
+        "{0} jam",
+        "{0} jam"
+      ],
+      "minute": [
+        "{0} menit",
+        "{0} menit"
+      ],
+      "second": [
+        "{0} detik",
+        "{0} detik"
+      ],
+      "separator": ", "
+    },
+    "ordinalStyle": "none"
+  },
+  "modes": {},
+  "schemaVersion": 1,
+  "service": "bot"
+}

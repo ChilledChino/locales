@@ -1,0 +1,102 @@
+{
+  "defaultLocale": "en-US",
+  "defaultMode": "normal",
+  "locales": [
+    {
+      "aliases": [
+        "English",
+        "en",
+        "en_US",
+        "en-GB",
+        "en_GB"
+      ],
+      "bytes": 278392,
+      "code": "en-US",
+      "coverage": 100.0,
+      "dateTimeRecognizerCulture": "en-us",
+      "discordLocales": [
+        "en-US",
+        "en-GB"
+      ],
+      "englishName": "English",
+      "fallback": null,
+      "file": "en-US.json",
+      "modeKeys": {
+        "maid": 376
+      },
+      "nativeName": "English",
+      "sha256": "8dc57badfe497f0c331bd98036debc3d5705e01fbd4910b4228f5a9b01dfe343",
+      "totalKeys": 3998,
+      "translatedKeys": 3998
+    },
+    {
+      "aliases": [
+        "Japanese",
+        "ja",
+        "ja_JP"
+      ],
+      "bytes": 353514,
+      "code": "ja-JP",
+      "coverage": 100.0,
+      "dateTimeRecognizerCulture": "ja-jp",
+      "discordLocales": [
+        "ja"
+      ],
+      "englishName": "Japanese",
+      "fallback": "en-US",
+      "file": "ja-JP.json",
+      "modeKeys": {
+        "maid": 376
+      },
+      "nativeName": "日本語",
+      "sha256": "6852afa8a3fe6e4423f83cd90f2a95ae789bf3836b6c570b8cd6533fee176096",
+      "totalKeys": 3998,
+      "translatedKeys": 3998
+    },
+    {
+      "aliases": [
+        "Indonesian",
+        "id",
+        "in",
+        "id_ID"
+      ],
+      "bytes": 2284,
+      "code": "id-ID",
+      "coverage": 0.5,
+      "dateTimeRecognizerCulture": "en-us",
+      "discordLocales": [
+        "id"
+      ],
+      "englishName": "Indonesian",
+      "fallback": "en-US",
+      "file": "id-ID.json",
+      "modeKeys": {},
+      "nativeName": "Bahasa Indonesia",
+      "sha256": "e5c7cb5ff4b16e0f531032769bad986a4542755002b29551b18dc1065f7b396d",
+      "totalKeys": 3998,
+      "translatedKeys": 20
+    }
+  ],
+  "modes": [
+    {
+      "aliases": [
+        "Normal",
+        "default",
+        ""
+      ],
+      "description": "Default bot voice",
+      "id": "normal",
+      "name": "Normal"
+    },
+    {
+      "aliases": [
+        "Maid"
+      ],
+      "description": "Polite maid persona",
+      "id": "maid",
+      "name": "Maid"
+    }
+  ],
+  "schemaVersion": 1,
+  "service": "bot"
+}
