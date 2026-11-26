@@ -1,0 +1,13 @@
+{
+  "descriptions": {
+    "chino": "Your personal Chino",
+    "chino start": "Set up Chino for yourself"
+  },
+  "names": {
+    "Ask Chino": "Ask Chino",
+    "Explain": "Explain",
+    "Remind me about this": "Remind me about this",
+    "Summarize": "Summarize",
+    "Translate": "Translate"
+  }
+}

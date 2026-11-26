@@ -1,0 +1,23 @@
+{
+  "ds.denied.body": "Kamu tidak punya izin untuk melihat {what}. Tanyakan ke admin server jika menurutmu ini keliru.",
+  "ds.denied.thisPage": "halaman ini",
+  "ds.denied.title": "Akses ditolak",
+  "ds.dialog.close": "Tutup",
+  "ds.empty.title": "Belum ada apa-apa",
+  "ds.items": "{count, plural, other {# item}}",
+  "ds.loading": "Memuat",
+  "nav.me.hint": "Profil dan pengaturanmu",
+  "nav.me.label": "Pribadi",
+  "nav.servers.hint": "Kelola server kamu",
+  "nav.servers.label": "Server",
+  "nav.together.hint": "Dibagikan dengan teman",
+  "nav.together.label": "Bersama",
+  "prefs.language": "Bahasa",
+  "prefs.timezone": "Zona waktu",
+  "prefs.timezone.auto": "Otomatis ({zone})",
+  "shell.menu.close": "Tutup menu",
+  "shell.menu.open": "Ruang kerja",
+  "shell.nav.heading": "Ruang kerja",
+  "shell.nav.label": "Ruang kerja",
+  "shell.skip": "Lewati ke konten"
+}

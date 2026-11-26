@@ -1,0 +1,13 @@
+{
+  "descriptions": {
+    "chino": "あなた専用のChino",
+    "chino start": "自分用にChinoを設定する"
+  },
+  "names": {
+    "Ask Chino": "Chinoに聞く",
+    "Explain": "解説する",
+    "Remind me about this": "これをリマインド",
+    "Summarize": "要約する",
+    "Translate": "翻訳する"
+  }
+}

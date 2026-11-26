@@ -1,0 +1,23 @@
+{
+  "ds.denied.body": "You do not have permission to view {what}. Ask a server admin if you think this is a mistake.",
+  "ds.denied.thisPage": "this page",
+  "ds.denied.title": "Access denied",
+  "ds.dialog.close": "Close",
+  "ds.empty.title": "Nothing here yet",
+  "ds.items": "{count, plural, one {# item} other {# items}}",
+  "ds.loading": "Loading",
+  "nav.me.hint": "Your profile and settings",
+  "nav.me.label": "Personal",
+  "nav.servers.hint": "Manage your servers",
+  "nav.servers.label": "Servers",
+  "nav.together.hint": "Shared with friends",
+  "nav.together.label": "Together",
+  "prefs.language": "Language",
+  "prefs.timezone": "Time zone",
+  "prefs.timezone.auto": "Automatic ({zone})",
+  "shell.menu.close": "Close menu",
+  "shell.menu.open": "Workspaces",
+  "shell.nav.heading": "Workspace",
+  "shell.nav.label": "Workspaces",
+  "shell.skip": "Skip to content"
+}

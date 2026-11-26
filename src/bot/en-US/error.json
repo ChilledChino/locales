@@ -1,0 +1,12 @@
+{
+  "anime_api_broken": "Cannot retrieve image from the API, maybe the API is down? Please try again later",
+  "command_error": "There was an error while executing this command. Please try again",
+  "image_buffer_error": "An error occurred while getting the image information. Please try again",
+  "image_buffer_timeout": "A timeout occurred while retrieving the image. Please try again",
+  "ip_api_broken": "The API for retrieving API is broken. Please try again later",
+  "maintenance_mode": "I'm sorry, this command is currently under maintenance by my developer. Please wait for an update",
+  "missing_client_permissions": "I'm missing these permissions to run this command: {0}",
+  "missing_user_permissions": "You're missing these permissions to run this command: {0}",
+  "self_is_null": "This is an ultra rare error, self is null. Please try again",
+  "unknown_language": "That language is not supported."
+}

@@ -1,0 +1,34 @@
+{
+  "birthdayNoYear": "{month}{day}日",
+  "birthdayWithYear": "{year}年{month}{day}日",
+  "durationCompact": {
+    "day": "{0}日",
+    "hour": "{0}時間",
+    "includeZero": true,
+    "minute": "{0}分",
+    "second": "{0}秒",
+    "separator": "",
+    "trailingSpace": false
+  },
+  "durationDdhhmmss": "{0}日{1}時間{2}分{3}秒",
+  "durationFull": {
+    "day": [
+      "{0}日",
+      "{0}日"
+    ],
+    "hour": [
+      "{0}時間",
+      "{0}時間"
+    ],
+    "minute": [
+      "{0}分",
+      "{0}分"
+    ],
+    "second": [
+      "{0}秒",
+      "{0}秒"
+    ],
+    "separator": ""
+  },
+  "ordinalStyle": "none"
+}

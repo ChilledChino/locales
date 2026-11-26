@@ -1,0 +1,8 @@
+{
+  "movie_not_configured": "Apologies Master, movie search is not configured on this bot.",
+  "movie_option_desc": "Year: {0} imdbID: {1} Type: {2}",
+  "srv_img_sub": "Please open the full size with the links below, Master.",
+  "srv_no_guild_desc": "Apologies Master, this panel only works inside a server.",
+  "srv_overview_sub": "Please pick a page below for channels, roles, emojis and images, Master.",
+  "unknown": "Unknown"
+}

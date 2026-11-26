@@ -1,0 +1,33 @@
+{
+  "birthdayNoYear": "{day} {month}",
+  "birthdayWithYear": "{day} {month} {year}",
+  "durationCompact": {
+    "day": "{0}h",
+    "hour": "{0}j",
+    "minute": "{0}m",
+    "second": "{0}d",
+    "separator": " ",
+    "trailingSpace": false
+  },
+  "durationDdhhmmss": "{0}h {1}j {2}m {3}d",
+  "durationFull": {
+    "day": [
+      "{0} hari",
+      "{0} hari"
+    ],
+    "hour": [
+      "{0} jam",
+      "{0} jam"
+    ],
+    "minute": [
+      "{0} menit",
+      "{0} menit"
+    ],
+    "second": [
+      "{0} detik",
+      "{0} detik"
+    ],
+    "separator": ", "
+  },
+  "ordinalStyle": "none"
+}

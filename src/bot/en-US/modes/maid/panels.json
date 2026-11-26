@@ -1,0 +1,9 @@
+{
+  "cannot_be_undone": "Once done, I cannot undo this for you, Master.",
+  "home_empty": "Nothing is available to you here yet, Master. Please ask a server admin for access.",
+  "not_your_panel": "This panel belongs to another guest",
+  "not_your_panel_detail": "Please run `/{0}` to open your own panel, Master.",
+  "nothing_here_yet": "There is nothing here yet, Master.",
+  "panel_expired_detail": "This panel has expired, Master. Please run `/{0}` again for a fresh one.",
+  "something_went_wrong": "Apologies, Master — something went wrong. Please try again in a moment."
+}

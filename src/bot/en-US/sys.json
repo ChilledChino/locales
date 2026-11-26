@@ -1,0 +1,12 @@
+{
+  "afk_message": "<@{0}> is afk for {1}",
+  "afk_removed": "Successfully removed your AFK. Welcome!",
+  "player_command_limited": "You can't run commands on this player channel",
+  "ticket_created": "Your ticket has been submitted. View status and reply anytime at {site}/tickets.",
+  "vc_cooldown": "Chill! You need to wait for another {time} to be able to join again to prevent abuse",
+  "vc_failed_creating": "Failed to create the voice channel. Please ask the administrator if I have ManageChannels permission to create a channel",
+  "vc_limited": "The voice channel created has reached the limit. Consider using another voice channel or wait until someone leave",
+  "vc_move_not_allowed": "To prevent abuse, I do not allow joining the channel by moving from another channel",
+  "vc_user_blacklisted": "You are not allowed to create a voice channel from here",
+  "vc_user_no_role": "You don't have the required role to gain access on this channel"
+}

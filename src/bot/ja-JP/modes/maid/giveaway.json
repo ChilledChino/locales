@@ -1,0 +1,12 @@
+{
+  "ga_denied_notice_desc": "申し訳ございません、ご主人様。サーバー管理権限またはWebダッシュボードのギブアウェイ権限が必要でございます。",
+  "ga_done_cancelled_title": "ギブアウェイを中止いたしました、ご主人様",
+  "ga_done_ended_title": "ギブアウェイを終了いたしました、ご主人様",
+  "ga_done_picked_title": "当選者を選択いたしました、ご主人様",
+  "ga_done_rerolled_title": "当選者を再抽選いたしました、ご主人様",
+  "ga_done_startover_title": "ギブアウェイを再開いたしました、ご主人様",
+  "ga_done_updated_title": "ギブアウェイを更新いたしました、ご主人様",
+  "ga_err_missing_perms_desc": "申し訳ございません、ご主人様。<#{0}> で「チャンネルを見る」と「メッセージを送信」の権限が必要でございます。",
+  "ga_pub_live_title": "ギブアウェイを公開いたしました、ご主人様",
+  "ga_pub_sched_title": "ギブアウェイを予約いたしました、ご主人様"
+}

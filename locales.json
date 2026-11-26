@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "defaultLocale": "en-US",
+  "defaultMode": "normal",
+  "locales": [
+    {
+      "code": "en-US",
+      "nativeName": "English",
+      "englishName": "English",
+      "discordLocales": ["en-US", "en-GB"],
+      "aliases": ["English", "en", "en_US", "en-GB", "en_GB"],
+      "fallback": null,
+      "dateTimeRecognizerCulture": "en-us",
+      "services": {
+        "bot": { "enabled": true },
+        "web": { "enabled": true }
+      }
+    },
+    {
+      "code": "ja-JP",
+      "nativeName": "日本語",
+      "englishName": "Japanese",
+      "discordLocales": ["ja"],
+      "aliases": ["Japanese", "ja", "ja_JP"],
+      "fallback": "en-US",
+      "dateTimeRecognizerCulture": "ja-jp",
+      "services": {
+        "bot": { "enabled": true },
+        "web": { "enabled": false }
+      }
+    },
+    {
+      "code": "id-ID",
+      "nativeName": "Bahasa Indonesia",
+      "englishName": "Indonesian",
+      "discordLocales": ["id"],
+      "aliases": ["Indonesian", "id", "in", "id_ID"],
+      "fallback": "en-US",
+      "dateTimeRecognizerCulture": "en-us",
+      "services": {
+        "bot": { "enabled": true },
+        "web": { "enabled": true }
+      }
+    }
+  ],
+  "modes": [
+    {
+      "id": "normal",
+      "name": "Normal",
+      "description": "Default bot voice",
+      "aliases": ["Normal", "default", ""],
+      "services": {
+        "bot": { "enabled": true },
+        "web": { "enabled": true }
+      }
+    },
+    {
+      "id": "maid",
+      "name": "Maid",
+      "description": "Polite maid persona",
+      "aliases": ["Maid"],
+      "services": {
+        "bot": { "enabled": true },
+        "web": { "enabled": false }
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "birthdayNoYear": "{day}{ordinal} {month}",
+  "birthdayWithYear": "{day}{ordinal} {month} {year}",
+  "durationCompact": {
+    "day": "{0}d",
+    "hour": "{0}h",
+    "minute": "{0}m",
+    "second": "{0}s",
+    "separator": " ",
+    "trailingSpace": true
+  },
+  "durationDdhhmmss": "{0}d {1}h {2}m {3}s",
+  "durationFull": {
+    "day": [
+      "{0} day",
+      "{0} days"
+    ],
+    "hour": [
+      "{0} hour",
+      "{0} hours"
+    ],
+    "minute": [
+      "{0} minute",
+      "{0} minutes"
+    ],
+    "second": [
+      "{0} second",
+      "{0} seconds"
+    ],
+    "separator": ", "
+  },
+  "ordinalStyle": "english"
+}

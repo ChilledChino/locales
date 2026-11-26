@@ -1,0 +1,22 @@
+{
+  "common_no": "tidak",
+  "common_off": "nonaktif",
+  "common_on": "aktif",
+  "common_yes": "ya",
+  "onboarding_btn_dm_off": "Matikan pengingat DM",
+  "onboarding_btn_dm_on": "Nyalakan pengingat DM",
+  "onboarding_btn_finish": "Selesai",
+  "onboarding_btn_skip": "Lewati",
+  "onboarding_dm": "**Pengingat DM:** {0}",
+  "onboarding_done_body": "Ubah preferensi kapan saja dengan /account atau di dasbor.",
+  "onboarding_done_title": "Semua siap",
+  "onboarding_guild_no": "Fitur khusus server (moderasi, ekonomi, musik) butuh {{brand}} terpasang di server.",
+  "onboarding_guild_yes": "Alat server juga tersedia di sini.",
+  "onboarding_share": "**Bagikan aktivitas:** {0}",
+  "onboarding_skipped_body": "Jalankan /account kapan saja untuk kembali.",
+  "onboarding_skipped_title": "Pengenalan dilewati",
+  "onboarding_timezone": "**Zona waktu:** {0}",
+  "onboarding_timezone_unset": "belum diatur (atur di dasbor)",
+  "onboarding_title": "Mulai",
+  "onboarding_welcome": "Selamat datang di {{brand}}. Pengingat, pencarian, dan profilmu bisa dipakai tanpa server."
+}

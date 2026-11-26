@@ -1,0 +1,12 @@
+{
+  "anime_api_broken": "APIから画像を取得できません APIがダウンしている可能性があります 後でもう一度お試しください",
+  "command_error": "このコマンドの実行中にエラーが発生しました もう一度お試しください",
+  "image_buffer_error": "画像情報を取得中にエラーが発生しました もう一度お試しください",
+  "image_buffer_timeout": "画像の取得中にタイムアウトが発生しました",
+  "ip_api_broken": "APIの取得用APIが壊れています 後でもう一度お試しください",
+  "maintenance_mode": "申し訳ありません、このコマンドは現在開発者によってメンテナンス中です。更新をお待ちください",
+  "missing_client_permissions": "このコマンドを実行するには次の権限が不足しています {0}",
+  "missing_user_permissions": "このコマンドを実行するには次の権限が不足しています {0}",
+  "self_is_null": "非常に珍しいエラーです self が null です もう一度お試しください",
+  "unknown_language": "その言語はサポートされていません。"
+}
