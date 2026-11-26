@@ -63,7 +63,7 @@
   "status_description": "You have been online for `{0}`, offline for `{1}`, and have been doing activities with total duration of `{2}`",
   "status_field_top": "Top {0} activities",
   "status_no_presence": "There's no presence yet",
-  "status_self_no_status": "You don't have any status statistics. Is it enabled? /account status-tracker enabled true",
+  "status_self_no_status": "You don't have any status statistics. Is it enabled? If not, try /account status-tracker enabled true",
   "status_title": "{0}'s statistics",
   "status_title_self": "Your statistics",
   "status_user_no_status": "This user doesn't have any status statistics available",
