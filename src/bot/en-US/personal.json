@@ -284,7 +284,7 @@
   "tog_create_hint": "-# Titles can be up to {0} character(s). Or pick a template below.",
   "tog_create_sub": "Pick what kind of plan it is, then give it a name.",
   "tog_create_title": "Create a plan",
-  "tog_created_desc": "`#{0}` {1} ({2})\nOpen it to invite friends, share a card or start voice.",
+  "tog_created_desc": "`#{0}` {1} ({2})\nOpen it to invite friends, share a card, or start voice.",
   "tog_created_title": "Plan created",
   "tog_err_canc": "Could not cancel",
   "tog_err_clear_avail": "Could not clear availability",
