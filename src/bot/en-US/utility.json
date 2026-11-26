@@ -159,7 +159,7 @@
   "item_take_done_desc": "Took {0}x {1} from {2}. They now have {3}.",
   "keywords_added": "Word saved",
   "keywords_alert_desc": "In {0}, {1} wrote: {2}",
-  "keywords_alert_footer": "To stop: /keywords remove or /keywords optout in that server",
+  "keywords_alert_footer": "To stop, use /keywords remove or /keywords optout in that server",
   "keywords_alert_jump": "Jump to message",
   "keywords_alert_title": "A word you watch was said in {0}",
   "keywords_disabled_desc": "An admin has to turn keyword alerts on for this server first.",
