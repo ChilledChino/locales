@@ -194,7 +194,7 @@
   "settings_subheading": "選択するとすぐに保存されます。",
   "settings_summary": "**言語:** {0}\n**モード:** {1}\n**タイムゾーン:** {2}",
   "settings_tz_current": "現在",
-  "settings_tz_other": "その他...",
+  "settings_tz_other": "その他…",
   "settings_tz_other_desc": "IANAタイムゾーン名を入力",
   "share_already": "このサーバーにはすでにプレミアムを共有しています。",
   "share_cant": "現在のティアではサーバーへのプレミアム共有ができません。",

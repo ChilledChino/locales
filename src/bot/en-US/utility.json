@@ -68,7 +68,7 @@
   "bday_pick_text_channel": "Pick a text channel",
   "bday_post_err_desc": "I need permission to view and send messages in that channel.",
   "bday_post_err_title": "Could not post the message",
-  "bday_post_ph": "Post the birthday list in...",
+  "bday_post_ph": "Post the birthday list in…",
   "bday_remove_confirm_desc": "Currently {0}.",
   "bday_remove_confirm_title": "Remove your birthday?",
   "bday_removed_title": "Birthday removed",

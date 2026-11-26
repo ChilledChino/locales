@@ -194,7 +194,7 @@
   "settings_subheading": "Changes save as soon as you pick them.",
   "settings_summary": "**Language:** {0}\n**Mode:** {1}\n**Timezone:** {2}",
   "settings_tz_current": "Current",
-  "settings_tz_other": "Other...",
+  "settings_tz_other": "Other…",
   "settings_tz_other_desc": "Type an IANA-formatted timezone name",
   "share_already": "You already share premium with that server.",
   "share_cant": "Your tier cannot share premium with servers.",
