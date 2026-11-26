@@ -217,7 +217,7 @@
   "mod_am_off_cap": "Off",
   "mod_am_on_cap": "On",
   "mod_am_overview_status": "**AutoMod:** {0} · **Active rules:** {1}/{2}\n**Log channel:** {3}\n**Exempt:** {4}{5}",
-  "mod_am_preset_antispam_desc": "Stops message flooding, duplicates, caps spam, wall-of-text, and emoji spam.",
+  "mod_am_preset_antispam_desc": "Stops message flooding, duplicates, caps spam, wall of text, and emoji spam.",
   "mod_am_preset_antispam_name": "Anti-Spam",
   "mod_am_preset_antispam_r0": "Message flood (5 in 5s) -> delete, timeout:5",
   "mod_am_preset_antispam_r1": "Duplicate messages (4 in 10s, minword 10) -> delete, timeout:5",
