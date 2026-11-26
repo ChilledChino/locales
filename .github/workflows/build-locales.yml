@@ -6,12 +6,14 @@ on:
       - "locales.json"
       - "src/**"
       - "scripts/build.py"
+      - ".github/workflows/build-locales.yml"
   push:
     branches: [master]
     paths:
       - "locales.json"
       - "src/**"
       - "scripts/build.py"
+      - ".github/workflows/build-locales.yml"
   workflow_dispatch:
 
 permissions:
