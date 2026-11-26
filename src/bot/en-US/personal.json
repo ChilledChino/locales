@@ -279,7 +279,7 @@
   "tog_clear_confirm_title": "Clear all availability?",
   "tog_comp_confirm_desc": "Mark session `#{0}` **{1}** as completed?",
   "tog_comp_confirm_title": "Complete this session?",
-  "tog_comp_desc": "Session `#{0}` has been marked completed.",
+  "tog_comp_desc": "Session `#{0}` has been marked as complete.",
   "tog_comp_title": "Session completed",
   "tog_create_hint": "-# Titles can be up to {0} characters. Or pick a template below.",
   "tog_create_sub": "Pick what kind of plan it is, then give it a name.",
