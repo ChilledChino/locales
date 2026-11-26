@@ -2999,7 +2999,7 @@
       "sec_voice_myvoice_title": "My voice channel",
       "sec_voice_voice-blacklist_desc": "Keep users or roles out of your voice channel",
       "sec_voice_voice-blacklist_title": "Voice blacklist",
-      "sec_voice_voice-sessions_desc": "Channels you own right now, with settings and who is blocked",
+      "sec_voice_voice-sessions_desc": "Channels you own right now, with settings and a blocklist",
       "sec_voice_voice-sessions_title": "Voice sessions",
       "section_failed_load": "This section failed to load",
       "section_failed_load_detail": "Press Refresh to retry, or go Home. (Reference: `{0}`)",
