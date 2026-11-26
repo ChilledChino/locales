@@ -138,7 +138,7 @@
   "util_tickets_detail_created_on": "Created on {0}",
   "util_tickets_detail_desc_heading": "\n**Description:**\n{0}",
   "util_tickets_detail_no_replies": "-# No replies yet, Master.",
-  "util_tickets_detail_showing_comments": "-# Showing last 10 of {0} comment(s), Master. Full thread on dashboard.",
+  "util_tickets_detail_showing_comments": "-# Showing last 10 of {0} comment(s), Master. The full thread can be seen on the dashboard.",
   "util_tickets_detail_state_type": "**State:** {0} • **Type:** {1}",
   "util_tickets_empty_desc": "You haven't submitted any tickets yet, Master.\nUse `/report` to submit feedback, bug reports, or feature requests!",
   "util_tickets_empty_title": "No Tickets Found, Master",
