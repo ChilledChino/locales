@@ -50,7 +50,7 @@
   "ga_confirm_reroll_title": "Reroll the winners?",
   "ga_create_empty": "No details yet. Press **Fill in details** to set the title, prize, winners, and end time.",
   "ga_create_footer": "The giveaway stays a draft until you publish",
-  "ga_create_sub": "Details first, then optional settings, and channel before publishing.",
+  "ga_create_sub": "Details first, then optional settings and channel before publishing.",
   "ga_create_summary": "**Title:** {0}\n**Prize:** {1}\n**Winners:** {2}\n**Ends:** {3} ({4}){5}",
   "ga_create_title": "Start a giveaway",
   "ga_denied_desc": "Manage Server",

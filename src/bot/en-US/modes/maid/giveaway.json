@@ -6,7 +6,7 @@
   "ga_done_rerolled_title": "Winners rerolled, Master",
   "ga_done_startover_title": "Giveaway started over, Master",
   "ga_done_updated_title": "Giveaway updated, Master",
-  "ga_err_missing_perms_desc": "Apologies Master, I need View Channel, and Send Messages permissions in <#{0}>.",
+  "ga_err_missing_perms_desc": "Apologies Master, I need View Channel and Send Messages permissions in <#{0}>.",
   "ga_pub_live_title": "Giveaway published, Master",
   "ga_pub_sched_title": "Giveaway scheduled, Master"
 }
