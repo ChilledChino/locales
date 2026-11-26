@@ -2622,7 +2622,7 @@
       "mp_fx_not_dj": "You need the DJ role to change the music.",
       "mp_fx_pitch_label": "Pitch (0.2-3)",
       "mp_fx_rate_label": "Rate (0.2-3)",
-      "mp_fx_reset_desc": "Every audio effect, including speed, pitch, and rate, goes back to normal.",
+      "mp_fx_reset_desc": "Every audio effect, including speed, pitch, and rate, has been reset.",
       "mp_fx_reset_title": "Reset all effects?",
       "mp_fx_restricted": "Music controls are restricted",
       "mp_fx_server_only": "Effects only work in a server",
