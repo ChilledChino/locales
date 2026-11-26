@@ -174,7 +174,7 @@
   "keywords_list_desc": "{0}\n\n{1} of {2} word(s) used",
   "keywords_list_empty": "You have no saved words in this server",
   "keywords_list_title": "Your keyword alerts",
-  "keywords_optout_off": "Done. Your messages can trigger alerts again in this server",
+  "keywords_optout_off": "Done. Your messages can trigger alerts in this server again",
   "keywords_optout_on": "Done. Nobody gets alerts about your messages in this server",
   "keywords_privacy_note": "Server admins and moderators with Keyword Alerts access can view and remove your watched words in this server's dashboard.",
   "keywords_removed": "Word removed",
