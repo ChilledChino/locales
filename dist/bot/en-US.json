@@ -3580,7 +3580,7 @@
       "bday_upcoming_sub": "{0} registered, {1} in the next 30 days.",
       "bday_upcoming_title": "Upcoming birthdays",
       "birthday_date": "{0}/{1}",
-      "birthday_future_date": "Are you from future?",
+      "birthday_future_date": "Are you from the future?",
       "birthday_invalid_date": "The date is invalid. It must  be dd/mm/yyyy",
       "birthday_invalid_day": "Day must be between 1-31",
       "birthday_list": "Birthday List",
