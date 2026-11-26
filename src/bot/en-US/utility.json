@@ -165,7 +165,7 @@
   "keywords_disabled_desc": "An admin has to turn keyword alerts on for this server first.",
   "keywords_disabled_title": "Keyword alerts are off",
   "keywords_err_blocked": "That word is not allowed",
-  "keywords_err_chars": "Use letters, numbers, apostrophes and hyphens, up to 3 words",
+  "keywords_err_chars": "Use letters, numbers, apostrophes, and hyphens, up to 3 words",
   "keywords_err_duplicate": "You already saved that word",
   "keywords_err_limit": "You can save at most {0} words in this server",
   "keywords_err_long": "Words can be at most {0} characters",

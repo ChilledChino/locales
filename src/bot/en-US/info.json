@@ -50,7 +50,7 @@
   "srv_noun_icon": "icon",
   "srv_overview_body": "**ID:** {0}\n**Owner:** {1}<@{2}>\n**Description:** {3}\n**Created:** {4}\n**Verification:** {5}\n**Content filter:** {6}\n**AFK:** {7}\n**Vanity URL:** {8}",
   "srv_overview_counts": "**Members:** {0}  **Channels:** {1}  **Roles:** {2}  **Emojis:** {3}\n**Boosts:** {4}  **Boost tier:** {5}",
-  "srv_overview_sub": "Pick a page below for channels, roles, emojis and images.",
+  "srv_overview_sub": "Pick a page below for channels, roles, emojis, and images.",
   "srv_role_count_many": "{0} roles",
   "srv_role_count_one": "1 role",
   "srv_role_empty_desc": "This server only has @everyone.",
