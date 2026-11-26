@@ -135,7 +135,7 @@
   "giveaway_not_found": "Giveaway not found",
   "giveaway_pick_not_enough_entries": "This giveaway does not have enough entries to pick the winner. Wait until it has enough entries",
   "giveaway_pick_not_enough_entries_put": "You need to provide {0} id(s)",
-  "giveaway_pick_not_manual": "This giveaway type does not need manual pick",
+  "giveaway_pick_not_manual": "This giveaway type does not need manual picks",
   "giveaway_pick_not_waiting": "This giveaway is not in waiting state. Please check giveaway logs",
   "giveaway_pick_unknown_ids": "There are invalid entry id: {0}",
   "giveaway_picked": "Successfully picked the winners!",
