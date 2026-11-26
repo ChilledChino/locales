@@ -3112,7 +3112,7 @@
       "premium_unshare_confirm_title": "Unshare premium?",
       "privacy_ai_external_heading": "### Public research sources",
       "privacy_ai_heading": "### AI preferences",
-      "privacy_ai_images": "**Allow images in AI:** {0}\nLet AI features read images you send.",
+      "privacy_ai_images": "**Allow images in AI:** {0}\nLet AI features read your image attachments.",
       "privacy_ai_optout": "**Opt out of AI:** {0}\n{{character}} will not run AI features on your messages.",
       "privacy_ai_provider": "**{0}:** {1}\nAllow {{character}} to look up public content from this source in general AI chats.",
       "privacy_dm": "**DM reminders:** {0}\nLet {{character}} DM you reminders.",
