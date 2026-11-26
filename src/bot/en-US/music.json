@@ -175,7 +175,7 @@
   "mp_ps_btn_remove": "Remove player",
   "mp_ps_btn_repair": "Repair panel",
   "mp_ps_ch_status": "**Channel**: {0}\n**Status**: {1}\n{2}",
-  "mp_ps_del_desc": "The player panel will be deleted. The channel, its history, DJ role and current playback will stay.",
+  "mp_ps_del_desc": "The player panel will be deleted. The channel, its history, DJ role, and current playback will stay.",
   "mp_ps_del_title": "Remove the player?",
   "mp_ps_dj_ph": "Choose the DJ role",
   "mp_ps_dj_typed": "**DJ role**: {0}\n**Typed requests**: {1}",

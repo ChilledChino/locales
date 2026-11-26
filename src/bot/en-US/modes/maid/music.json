@@ -6,7 +6,7 @@
   "crossfade_automix_pending": "-# Crossfade is off, Master, so this applies once it is turned on.",
   "crossfade_automix_status": "🔀 Automix is now {0}, effects {1}, Master",
   "crossfade_details": "Overlap duration: **{0}**\nAutomix: **{1}**, effects: **{2}**\n-# Tracks shorter than the fade duration + 2s or streams will transition normally, Master. Automix only applies to songs with Spotify data whose tempo and length match.",
-  "crossfade_invalid_duration": "Master, crossfade duration must be between 100 and 30000 ms (0.1s - 30s).",
+  "crossfade_invalid_duration": "Master, crossfade duration must be between 100, and 30000 ms (0.1s - 30s).",
   "crossfade_not_supported_desc": "-# The connected Lavalink node does not have the Crossfade API extension enabled, Master.",
   "crossfade_not_supported_title": "Crossfade is not supported by the connected audio server, Master.",
   "crossfade_off_desc": "Tracks will transition normally when the current song finishes, Master.",

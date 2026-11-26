@@ -36,7 +36,7 @@
   "bday_manage_server": "Manage Server",
   "bday_mine_footer": "Pick a month, then Set birthday",
   "bday_mine_heading": "Your birthday",
-  "bday_mine_sub": "Pick your month, then enter the day and optional birth year. Everyone in the server can see it.",
+  "bday_mine_sub": "Pick your month, then enter the day, and optional birth year. Everyone in the server can see it.",
   "bday_modal_day_label": "Day of the month",
   "bday_modal_day_ph": "e.g. 14",
   "bday_modal_title": "Birthday in {0}",
