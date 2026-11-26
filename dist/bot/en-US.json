@@ -3376,7 +3376,7 @@
       "tog_no_overlap_title": "No overlapping times yet",
       "tog_no_plans_desc": "Create one or join with a code.",
       "tog_no_plans_title": "No plans yet",
-      "tog_no_rm_opts_desc": "You can only remove options you proposed (or any if you own the plan).",
+      "tog_no_rm_opts_desc": "You can only remove the options you have proposed (or any if you own the plan).",
       "tog_no_rm_opts_title": "No removable options",
       "tog_no_slots_clear": "You have no free slots to clear.",
       "tog_no_slots_rm": "You have no free slots to remove.",
