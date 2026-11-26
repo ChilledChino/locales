@@ -1,7 +1,7 @@
 {
   "autocomplete_spotify_link": "Play this Spotify {0}",
   "autoplay_cancelled": "Autoplay was cancelled",
-  "autoplay_confirmation": "My autoplay system uses AI to find related songs. It may occasionally return inaccurate results or stop working at any time. Autoplay will only work when a track finishes playing by itself, not when skipped. Proceed?",
+  "autoplay_confirmation": "My autoplay system uses AI to find related songs. It may occasionally return inaccurate results or stop working at any time. Furthermore, autoplay will only work when a track has finished playing by itself, not when it's skipped. Proceed?",
   "autoplay_disabled": "Autoplay has been disabled",
   "autoplay_enabled": "Autoplay has been enabled",
   "autoplay_timeout": "The operation timed out",
@@ -235,7 +235,7 @@
   "mp_vol_range_err2": "Volume must be between 0 and 200.",
   "mp_vol_set_notice": "Volume set to {0}%.",
   "music_autoplay_cancelled": "Autoplay was cancelled",
-  "music_autoplay_confirmation": "My autoplay system uses AI to find related songs. It may occasionally return inaccurate results or stop working at any time. Autoplay will only work when a track finishes playing by itself, not when skipped. Proceed?",
+  "music_autoplay_confirmation": "My autoplay system uses AI to find related songs. It may occasionally return inaccurate results or stop working at any time. Furthermore, autoplay will only work when a track has finished playing by itself, not when it's skipped. Proceed?",
   "music_autoplay_disabled": "Autoplay has been disabled",
   "music_autoplay_enabled": "Autoplay has been enabled",
   "music_autoplay_timeout": "The operation timed out",
