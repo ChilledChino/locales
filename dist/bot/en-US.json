@@ -3596,7 +3596,7 @@
       "birthday_tomorrow": "Coming Up Tomorrow",
       "birthday_under_a_month": "Birthdays under a month",
       "birthday_upcoming": "Upcoming: {0}",
-      "birthday_view": "**Birthday : ** {0}",
+      "birthday_view": "**Birthday :** {0}",
       "birthday_visibility": "**Visibility :** {0}",
       "birthday_visibility_set_public": "Successfully set your birthday visibility to public. Every guild with birthday reminder enabled will able to announce your birthday",
       "birthday_visibility_set_unlisted": "Successfully set your birthday visibility to unlisted",
