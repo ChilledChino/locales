@@ -3618,7 +3618,7 @@
       "giveaway_create_winner_count_placeholder": "How many winners to win. Max 40",
       "giveaway_end_not_confirmed": "The process won't be continued",
       "giveaway_ended": "Ended {0} giveaway",
-      "giveaway_invalid_entry_id": "There is invalid user in entry id. Please check again correctly",
+      "giveaway_invalid_entry_id": "There is an invalid user in the entry id. Please check it again",
       "giveaway_list_title": "Giveaway List",
       "giveaway_logs_footer": "Page {1}/{2} ; Total logs: {0}",
       "giveaway_logs_title": "Giveaway Logs",
