@@ -1748,7 +1748,7 @@
       "reaction_emoji_not_ready": "The reaction role with reactions is not ready yet",
       "reaction_message_limit": "This guild has reached the limit of reaction role messages ({0}/{1}). Consider upgrading to higher tier premium to unlock more",
       "reaction_none": "There's no reaction role in this guild",
-      "reaction_not_found": "Reaction role with id {0} wa(s) not found",
+      "reaction_not_found": "Reaction role with id {0} was not found",
       "reaction_ongoing": "There's already running setup in <#{0}> by <@{1}>. You can wait for a few minutes",
       "reaction_title": "Reaction Roles",
       "role_on_join_add": "Added {0} to the list of roles assigned when a member joins",
