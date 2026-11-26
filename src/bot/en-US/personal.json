@@ -322,7 +322,7 @@
   "tog_err_rsvp": "RSVP failed",
   "tog_err_share": "Could not share",
   "tog_err_start_voice": "Could not start voice",
-  "tog_fin_confirm_desc": "Session `#{0}` **{1}** will be locked and reminders queued.",
+  "tog_fin_confirm_desc": "Session `#{0}` **{1}** will be locked and reminders will be queued.",
   "tog_fin_confirm_title": "Finalize this session?",
   "tog_fin_desc": "Session `#{0}` is finalized. Notifications have been queued.",
   "tog_fin_title": "Session finalized",
