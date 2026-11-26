@@ -269,7 +269,7 @@
   "tog_btn_yes_fin": "Yes, finalize",
   "tog_btn_yes_leave": "Yes, leave",
   "tog_btn_yes_remove": "Yes, remove",
-  "tog_canc_confirm_desc": "Session `#{0}` **{1}** will be cancelled and attendees notified.",
+  "tog_canc_confirm_desc": "Session `#{0}` **{1}** will be cancelled and all attendees will be notified.",
   "tog_canc_confirm_title": "Cancel this session?",
   "tog_canc_desc": "Session `#{0}` has been cancelled.",
   "tog_canc_title": "Session cancelled",
