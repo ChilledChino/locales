@@ -13,19 +13,19 @@
   "durationFull": {
     "day": [
       "{0} day",
-      "{0} days"
+      "{0} day(s)"
     ],
     "hour": [
       "{0} hour",
-      "{0} hours"
+      "{0} hour(s)"
     ],
     "minute": [
       "{0} minute",
-      "{0} minutes"
+      "{0} minute(s)"
     ],
     "second": [
       "{0} second",
-      "{0} seconds"
+      "{0} second(s)"
     ],
     "separator": ", "
   },

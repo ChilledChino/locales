@@ -34,7 +34,7 @@
   "message_pinned": "Message Pinned",
   "message_pinned_desc": "Message by {0} has been pinned in {1}",
   "messages_bulk_deleted": "Messages Bulk Deleted",
-  "messages_bulk_deleted_desc": "{0} messages has been deleted in {1}",
+  "messages_bulk_deleted_desc": "{0} message(s) has been deleted in {1}",
   "role_created": "Role Created",
   "role_deleted": "Role Deleted",
   "role_permissions_changes": "Changed Permissions",

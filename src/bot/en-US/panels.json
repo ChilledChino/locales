@@ -188,7 +188,7 @@
   "section_try": "Try: {0}",
   "section_unavailable": "Section unavailable",
   "section_unavailable_detail": "That section is not available to you.",
-  "sections_count": "{0} sections",
+  "sections_count": "{0} section(s)",
   "something_went_wrong": "Something went wrong. Try again in a moment.",
   "took_too_long": "That took too long",
   "unknown_panel": "Unknown panel",

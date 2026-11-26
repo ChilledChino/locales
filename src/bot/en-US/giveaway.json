@@ -129,7 +129,7 @@
   "ga_err_parse_end_title": "I could not read that end time",
   "ga_err_parse_start_desc": "Try `in 2 hours` or `2026-12-01 12:00`.",
   "ga_err_parse_start_title": "Could not parse start time",
-  "ga_err_pd_desc": "Must be 5 to {0} characters.",
+  "ga_err_pd_desc": "Must be 5 to {0} character(s).",
   "ga_err_pd_title": "Check prize description",
   "ga_err_pick_target": "Pick a valid target from this server.",
   "ga_err_post_msg_cancel_desc": "Giveaway was cancelled because posting the new message failed.",
@@ -137,7 +137,7 @@
   "ga_err_post_msg_title": "Failed to post message",
   "ga_err_prize_empty": "The prize name cannot be empty.",
   "ga_err_publish_title": "Could not publish",
-  "ga_err_req_limit_desc": "At most {0} requirements.",
+  "ga_err_req_limit_desc": "At most {0} requirement(s).",
   "ga_err_req_limit_title": "Limit reached",
   "ga_err_reroll_failed_desc": "See the giveaway logs.",
   "ga_err_reroll_failed_title": "Reroll failed",
@@ -261,7 +261,7 @@
   "ga_sub_max_sub": "Optionally cap total entries and choose what happens when the cap is reached.",
   "ga_sub_max_title": "Participant limit",
   "ga_sub_req_empty": "-# No entry requirements yet.",
-  "ga_sub_req_sub": "Configure up to {0} requirements members must satisfy to enter.",
+  "ga_sub_req_sub": "Configure up to {0} requirement(s) members must satisfy to enter.",
   "ga_sub_req_title": "Entry requirements",
   "ga_sub_req_type_ph": "Requirement type",
   "ga_sub_wm_ph": "Select winner method",
@@ -291,7 +291,7 @@
   "hosted_a_giveaway": "{0} Hosted a Giveaway",
   "join_channel_requirement": "Join any voice channel",
   "join_thread_requirement": "Join a thread {0}",
-  "max_participants_reached": "You can no longer join this giveaway since it's full. {0} participants out of {1} max",
+  "max_participants_reached": "You can no longer join this giveaway since it's full. {0} participant(s) out of {1} max",
   "message_has_requirement": "Send message that contains {0}",
   "message_in_requirement": "Send a message in {0}",
   "missing_role": "You need to have role {0} to participate this giveaway",
@@ -306,5 +306,5 @@
   "watch_post_requirement": "Watch this post {0}",
   "winner_count": "{0} winner",
   "winner_method": "Winner picking method: {0}",
-  "winners_count": "{0} winners"
+  "winners_count": "{0} winner(s)"
 }
