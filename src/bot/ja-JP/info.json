@@ -7,7 +7,7 @@
   "movie_description": "以下に見つけた映画を選択してください",
   "movie_no_results": "{0}の結果が見つかりませんでした",
   "movie_not_configured": "このbotでは映画検索が設定されていません。",
-  "movie_option_desc": "公開年: {0} imdbID: {1} 種類: {2}",
+  "movie_option_desc": "公開年: {0} IMDB ID: {1} 種類: {2}",
   "movie_select": "ここで映画を選択",
   "server_no_avatar": "このサーバーにはアバターが設定されていません",
   "server_no_banner": "このサーバーにはバナーがありません",
