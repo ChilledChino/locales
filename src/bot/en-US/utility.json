@@ -188,7 +188,7 @@
   "report_report_title": "Example: An issue with x",
   "report_title": "Create a Ticket",
   "util_agent_invalid_server_id": "Invalid server ID.",
-  "util_ai_bad_image_desc": "Use PNG, JPEG, WebP or GIF images under 5 MB.",
+  "util_ai_bad_image_desc": "Use PNG, JPEG, WebP, or GIF images under 5 MB.",
   "util_ai_bad_image_title": "Unsupported image",
   "util_ai_error_desc": "The AI service had a problem. Please try again later.",
   "util_ai_error_title": "{{character}} could not answer",

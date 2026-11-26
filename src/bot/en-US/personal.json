@@ -141,7 +141,7 @@
   "remind_err_kept": "-# Your text is kept. Press Edit to fix it.",
   "remind_err_title": "Could not set that reminder",
   "remind_err_unknown": "Unknown error.",
-  "remind_examples": "Examples: `in 2 hours call mom`, `tomorrow at 3pm submit report`. Repeat: `daily`, `weekly` or `every:6h`.",
+  "remind_examples": "Examples: `in 2 hours call mom`, `tomorrow at 3pm submit report`. Repeat: `daily`, `weekly`, or `every:6h`.",
   "remind_filter_all": "All",
   "remind_filter_cancelled": "Cancelled",
   "remind_filter_done": "Done",

@@ -249,7 +249,7 @@
   "pause_resumed": "Resumed the player",
   "play_all_dupes_track": "{0} is already in queue",
   "play_all_dupes_tracks": "All the songs are already in queue",
-  "play_load_failed": "I could not load that. It may be private, age-restricted or blocked, or the music server had a problem. Try another link or a search.",
+  "play_load_failed": "I could not load that. It may be private, age-restricted, blocked, or the music server had a problem. Try another link or a search.",
   "play_not_found": "There's no result for {0}",
   "play_not_paused": "The player is not paused. Please provide a query to play",
   "play_playback_resumed": "Playback resumed",

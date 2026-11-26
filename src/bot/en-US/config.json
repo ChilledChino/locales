@@ -82,7 +82,7 @@
   "auto_list_empty_body": "Use **New with AI** to describe a rule in plain words, or open the visual builder in the dashboard.",
   "auto_list_empty_sub": "No automation rules exist in this server yet.",
   "auto_list_heading": "Automation rules ({0} / {1})",
-  "auto_list_sub": "Press Manage to inspect, pause, edit or delete a rule.",
+  "auto_list_sub": "Press Manage to inspect, pause, edit, or delete a rule.",
   "auto_modal_edit_title": "Edit rule basics",
   "auto_nf_desc": "It may have been deleted.",
   "auto_nf_title": "Rule not found",

@@ -229,7 +229,7 @@
   "use_none": "You have no items to use.",
   "use_not_owned": "You don't have that item. Check /inventory.",
   "use_not_usable": "That item has nothing to use. It is a collectible.",
-  "use_ok_coinboost": "**{0}** is on: +{1}% {{coins}} from messages, /daily and /work until {2}.",
+  "use_ok_coinboost": "**{0}** is on: +{1}% {{coins}} from messages, /daily, and /work until {2}.",
   "use_ok_lootbox": "You opened **{0}** and found **{1}** {{coins}}!",
   "use_ok_redeem": "You redeemed **{0}**. The staff have been told and will hand it out.",
   "use_ok_shield": "**{0}** is on: nobody can rob you until {1}.",

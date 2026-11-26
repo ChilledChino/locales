@@ -18,7 +18,7 @@
   "game_typeracer_title": "TypeRacer",
   "img_api_failed": "I could not retrieve an image from the API, Master. Please try again later.",
   "util_agent_invalid_server_id": "That is an invalid server ID, Master.",
-  "util_ai_bad_image_desc": "Please use PNG, JPEG, WebP or GIF images under 5 MB, Master.",
+  "util_ai_bad_image_desc": "Please use PNG, JPEG, WebP, or GIF images under 5 MB, Master.",
   "util_ai_bad_image_title": "Unsupported image, Master",
   "util_ai_error_desc": "The AI service encountered a problem, Master. Please try again later.",
   "util_ai_error_title": "{{character}} could not answer, Master",
