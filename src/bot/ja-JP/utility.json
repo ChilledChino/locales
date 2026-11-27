@@ -68,7 +68,7 @@
   "bday_pick_text_channel": "テキストチャンネルを選択してください",
   "bday_post_err_desc": "そのチャンネルでメッセージを表示・送信する権限が必要です。",
   "bday_post_err_title": "メッセージを投稿できませんでした",
-  "bday_post_ph": "誕生日一覧を投稿するチャンネル...",
+  "bday_post_ph": "誕生日一覧を投稿するチャンネル…",
   "bday_remove_confirm_desc": "現在: {0}",
   "bday_remove_confirm_title": "誕生日を削除しますか？",
   "bday_removed_title": "誕生日を削除しました",
