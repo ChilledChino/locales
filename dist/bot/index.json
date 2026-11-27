@@ -10,7 +10,7 @@
         "en-GB",
         "en_GB"
       ],
-      "bytes": 278392,
+      "bytes": 279047,
       "code": "en-US",
       "coverage": 100.0,
       "dateTimeRecognizerCulture": "en-us",
@@ -25,7 +25,7 @@
         "maid": 376
       },
       "nativeName": "English",
-      "sha256": "8dc57badfe497f0c331bd98036debc3d5705e01fbd4910b4228f5a9b01dfe343",
+      "sha256": "77122b267bdc45f76cdceea3f51b9a13884346e8823b07702646932e17237da6",
       "totalKeys": 3998,
       "translatedKeys": 3998
     },
@@ -35,7 +35,7 @@
         "ja",
         "ja_JP"
       ],
-      "bytes": 353514,
+      "bytes": 353516,
       "code": "ja-JP",
       "coverage": 100.0,
       "dateTimeRecognizerCulture": "ja-jp",
@@ -49,7 +49,7 @@
         "maid": 376
       },
       "nativeName": "日本語",
-      "sha256": "6852afa8a3fe6e4423f83cd90f2a95ae789bf3836b6c570b8cd6533fee176096",
+      "sha256": "32c9fc6f209c43b33eb56b089d57335d6120bf592c1dc14242ff632bb1806e36",
       "totalKeys": 3998,
       "translatedKeys": 3998
     },
